@@ -1,0 +1,8 @@
+# BrainUp---Ios
+
+Brain up is game plateform which contains 2 games: Quizz and memory game.
+Player can be registred to the app plateform, and login on any (IOS) device of his choice.
+If the user clicks on Quizz, he is redirected to a screen where he’s only allowed to play level 1 ( at first use).
+To play next level, the player needs a score equal or higher than 5 in his current level.
+Memory game is about matching the same tiles (cards), game end when all tiles are revealed.
+Once the player finishes the level, he is allowed to play next level.
