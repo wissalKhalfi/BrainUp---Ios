@@ -8,7 +8,7 @@ Memory game is about matching the same tiles (cards), game end when all tiles ar
 Once the player finishes the level, he is allowed to play next level.
 
 
-<img align="left" width="100" height="100" src="https://github.com/wissalKhalfi/BrainUp---Ios/blob/master/brainUp%20screenshots/Simulator%20Screen%20Shot%204%20mai%202017%2006.07.06.png">
+<img align="left" width="200" height="250" src="https://github.com/wissalKhalfi/BrainUp---Ios/blob/master/brainUp%20screenshots/Simulator%20Screen%20Shot%204%20mai%202017%2006.07.06.png">
 
 ![alt text](https://github.com/wissalKhalfi/BrainUp---Ios/blob/master/brainUp%20screenshots/Simulator%20Screen%20Shot%204%20mai%202017%2006.07.06.png)
 ![alt text](https://github.com/wissalKhalfi/BrainUp---Ios/blob/master/brainUp%20screenshots/Simulator%20Screen%20Shot%204%20mai%202017%2006.07.20.png)
