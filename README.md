@@ -10,11 +10,23 @@ Once the player finishes the level, he is allowed to play next level.
 
 <img align="left" width="200" height="300" src="https://github.com/wissalKhalfi/BrainUp---Ios/blob/master/brainUp%20screenshots/Simulator%20Screen%20Shot%204%20mai%202017%2006.07.06.png">
 
-![alt text](https://github.com/wissalKhalfi/BrainUp---Ios/blob/master/brainUp%20screenshots/Simulator%20Screen%20Shot%204%20mai%202017%2006.07.06.png)
-![alt text](https://github.com/wissalKhalfi/BrainUp---Ios/blob/master/brainUp%20screenshots/Simulator%20Screen%20Shot%204%20mai%202017%2006.07.20.png)
-![alt text](https://github.com/wissalKhalfi/BrainUp---Ios/blob/master/brainUp%20screenshots/Simulator%20Screen%20Shot%204%20mai%202017%2006.07.22.png)
-![alt text](https://github.com/wissalKhalfi/BrainUp---Ios/blob/master/brainUp%20screenshots/Simulator%20Screen%20Shot%204%20mai%202017%2006.07.27.png)
-![alt text](https://github.com/wissalKhalfi/BrainUp---Ios/blob/master/brainUp%20screenshots/Simulator%20Screen%20Shot%204%20mai%202017%2006.07.30.png)
-![alt text](https://github.com/wissalKhalfi/BrainUp---Ios/blob/master/brainUp%20screenshots/Simulator%20Screen%20Shot%204%20mai%202017%2006.07.39.png)
-![alt text](https://github.com/wissalKhalfi/BrainUp---Ios/blob/master/brainUp%20screenshots/Simulator%20Screen%20Shot%204%20mai%202017%2006.07.48.png)
-![alt text](https://github.com/wissalKhalfi/BrainUp---Ios/blob/master/brainUp%20screenshots/Simulator%20Screen%20Shot%204%20mai%202017%2006.08.00.png)
+<img align="left" width="200" height="300" src="https://github.com/wissalKhalfi/BrainUp---Ios/blob/master/brainUp%20screenshots/Simulator%20Screen%20Shot%204%20mai%202017%2006.07.20.png">
+
+
+<img align="left" width="200" height="300" src="https://github.com/wissalKhalfi/BrainUp---Ios/blob/master/brainUp%20screenshots/Simulator%20Screen%20Shot%204%20mai%202017%2006.07.22.png">
+
+
+<img align="left" width="200" height="300" src="https://github.com/wissalKhalfi/BrainUp---Ios/blob/master/brainUp%20screenshots/Simulator%20Screen%20Shot%204%20mai%202017%2006.07.27.png">
+
+
+<img align="left" width="200" height="300" src="https://github.com/wissalKhalfi/BrainUp---Ios/blob/master/brainUp%20screenshots/Simulator%20Screen%20Shot%204%20mai%202017%2006.07.30.png">
+
+
+<img align="left" width="200" height="300" src="https://github.com/wissalKhalfi/BrainUp---Ios/blob/master/brainUp%20screenshots/Simulator%20Screen%20Shot%204%20mai%202017%2006.07.39.png">
+
+
+<img align="left" width="200" height="300" src="https://github.com/wissalKhalfi/BrainUp---Ios/blob/master/brainUp%20screenshots/Simulator%20Screen%20Shot%204%20mai%202017%2006.08.00.png">
+
+
+<img align="left" width="200" height="300" src="https://github.com/wissalKhalfi/BrainUp---Ios/blob/master/brainUp%20screenshots/Simulator%20Screen%20Shot%204%20mai%202017%2006.07.48.png">
+
