@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "9508bb804975afab776753073c7d2834_pink-baby-owl-clipart-clipart-cartoon-owl-clipart-png_456-598.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "9508bb804975afab776753073c7d2834_pink-baby-owl-clipart-clipart-cartoon-owl-clipart-png_456-599.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "9508bb804975afab776753073c7d2834_pink-baby-owl-clipart-clipart-cartoon-owl-clipart-png_456-600.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
